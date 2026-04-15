@@ -293,7 +293,7 @@ with st.sidebar:
 # ═══════════════════════════════════════════════
 #  API INIT
 # ═══════════════════════════════════════════════
-API_KEY = st.secrets["AIzaSyBSrbelc7tKIW_LPfCdL1A3bMLsVe0HAjs"]
+API_KEY = st.secrets["AIzaSyD04uTEYpx3BEws-v-x2022TKMim09zU_U"]
 youtube = build("youtube", "v3", developerKey=API_KEY)
 
 # ═══════════════════════════════════════════════
